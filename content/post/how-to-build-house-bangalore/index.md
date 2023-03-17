@@ -9,7 +9,7 @@ tags: [House]
 toc: true
 ---
 
-Various steps to follow to build a house in bangalore
+Various steps to follow to build a house in bangalore.
 
 BBMP Road cutting charges
 
