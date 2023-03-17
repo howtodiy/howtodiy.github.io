@@ -1,0 +1,17 @@
+[[main]]
+name = "Home"
+url = ""
+weight = -110
+
+[[main]]
+name = "About"
+url = "https://github.com/howtodiy"
+weight = -107
+
+# social menu links
+
+[[social]]
+name = "rss"
+weight = 3
+url = "index.xml"
+

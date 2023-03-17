@@ -1,0 +1,27 @@
+baseurl = "https://howtodiy.github.io/"  # Include trailing slash
+title = "How to DIY"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove
+copyright = ""
+# canonifyurls = true
+paginate = 10
+theme = ["github.com/chipzoller/hugo-clarity"]
+disqusShortname = "howtodiy"
+enableRobotsTXT = true
+
+enableEmoji = true
+
+DefaultContentLanguage = "en"
+# [languages]
+# config/_default/languages.toml
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[mediaTypes."application/javascript"]
+suffixes = ["ts","js","jsm","mjs"]
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
