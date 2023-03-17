@@ -4,7 +4,7 @@ copyright = ""
 # canonifyurls = true
 paginate = 10
 theme = ["github.com/chipzoller/hugo-clarity"]
-disqusShortname = "howtodiy"
+disqusShortname = "howtodiygit"
 enableRobotsTXT = true
 
 enableEmoji = true
