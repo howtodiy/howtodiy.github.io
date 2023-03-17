@@ -1,6 +1,6 @@
 ---
-title: 'How to DIY - Service Your Car'
-description: 'How to service your car'
+title: 'How To Service Your Car'
+description: 'How To Service Your Car'
 summary: 'Learn how to service your car yourself, learn the various parts and cost (Bangalore)'
 date: '2023-03-13'
 author: ''
