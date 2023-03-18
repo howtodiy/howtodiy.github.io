@@ -191,6 +191,14 @@ BBMP Road cutting charges
 
 [Paint Visualizer](https://www.sherwin-williams.com/visualizer/)
 
+## Electrical Load
+
+Load = (qty*watt*hours*days)/1000
+
+The below calculation shows a 8kwh load.
+
+![](img03.png)
+
 ## Timeline
 
 For a G+1 house 
