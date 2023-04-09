@@ -127,8 +127,7 @@ washed.
 Wheel balancing and rotation can be done if required. Mark your tyre so that you can record the wheel rotation over
 a few years.
 
-My tubless tyre had a bleeding air problem where it used to leak air and loose pressure over a few days, hence i got
-the neck valve on all tyre replaced.
+If there is a bleeding air problem around the neck valve change the neck valve.
 
 | Labour                         | Cost  |
 |:-------------------------------|:------|
@@ -139,6 +138,20 @@ the neck valve on all tyre replaced.
 | Part         | Cost   |
 |:-------------|:-------|
 | Neck valve 5 | 345 Rs |
+
+New Tyre cost 7600 Rs per tyre, Yokohama Earth 1 205/65 R16 95H Tubeless Car Tyre 
+
+![](img18.jpg)
+
+![](img19.jpg)
+
+Molly Lube spray paint to prevent rust, cost 800 Rs for 4 wheels.
+
+![](img15.jpg)
+
+![](img16.jpg)
+
+![](img17.jpg)
 
 ## Engine de-carbonization & AC gas filling
 
